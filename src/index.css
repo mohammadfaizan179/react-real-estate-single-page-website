@@ -97,6 +97,9 @@ a {
   transform: scale(1.1);
 }
 
+.wrapper-width{
+  padding: 2% 12%;
+}
 
 /* media queries */
 @media (min-width: 1536px) {

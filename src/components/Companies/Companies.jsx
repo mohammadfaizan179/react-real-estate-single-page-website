@@ -4,7 +4,7 @@ import './Companies.css'
 
 const Companies = () => {
     return (
-        <section className='c-wrapper'>
+        <section className='c-wrapper wrapper-width'>
             <div className="paddings innerWidth flexCenter c-container">
                 <img src="./prologis.png" alt="company-logo" />
                 <img src="./tower.png" alt="company-logo" />
